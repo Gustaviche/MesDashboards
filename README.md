@@ -13,7 +13,7 @@ Ci-dessous, vous trouverez mes différents tableaux de bord interactifs réalis�
 - Carte interactive des localisations  
 
 📸 Aperçu :  
-![BI - Wine_Experience](BI-Wine_Experience.png)  
+![BI - Wine Experience](BI-Wine_Experience.png)  
 
 ### 2️⃣ Cyclistics Chicago 🚲  
 **Analyse des trajets de vélos partagés à Chicago** :  
@@ -23,7 +23,7 @@ Ci-dessous, vous trouverez mes différents tableaux de bord interactifs réalis�
 - Carte interactive des stations  
 
 📸 Aperçu :  
-![Cyclistics_Chicago](Cyclistics_Chicago.png)  
+![Cyclistics Chicago](Cyclistics_Chicago.png)  
 
 ### 3️⃣ Toys & Models 🏗️  
 **Analyse des ventes de jouets et modèles réduits** :  
