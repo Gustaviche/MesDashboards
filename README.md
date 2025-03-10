@@ -6,14 +6,11 @@ Ci-dessous, vous trouverez mes différents tableaux de bord interactifs réalis�
 ## 📊 Dashboards  
 
 ### 1️⃣ BI - Wine Experience 🍷  
-**Analyse des vins selon plusieurs critères** :  
+**Compraison des vins US/FR selon plusieurs critères** :  
 - Répartition par pays et province  
 - Variétés les plus notées  
 - Analyse des prix et des millésimes  
 - Carte interactive des localisations  
-
-📸 Aperçu :  
-![BI - Wine Experience](BI-Wine_Experience.png)  
 
 ### 2️⃣ Cyclistics Chicago 🚲  
 **Analyse des trajets de vélos partagés à Chicago** :  
@@ -22,9 +19,6 @@ Ci-dessous, vous trouverez mes différents tableaux de bord interactifs réalis�
 - Analyse des jours et mois les plus actifs  
 - Carte interactive des stations  
 
-📸 Aperçu :  
-![Cyclistics Chicago](Cyclistics_Chicago.png)  
-
 ### 3️⃣ Toys & Models 🏗️  
 **Analyse des ventes de jouets et modèles réduits** :  
 - Quantité vendue et chiffre d'affaires  
@@ -32,7 +26,11 @@ Ci-dessous, vous trouverez mes différents tableaux de bord interactifs réalis�
 - Répartition par produit et ville  
 - Interface segmentée (Vente, Logistique, Finance, RH)  
 
-📸 Aperçu :  
-![Toys and Models](Toys_and_Models.png)  
+### 4️⃣ Airbnb NYC 🏢
+**Analyse des logements Airbnb à New-York en 2019** : 
+- Moyenne des notes par quartier
+- Répartition des types de locations
+- Moyenne des prix pafr arrondissement
+- Carte interactives des localisations
 
 N'hésite pas à explorer et à me donner ton retour ! 📩  
